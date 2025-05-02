@@ -1,5 +1,5 @@
 
-Hola! Soy Juan David Ávila. Antes que nada, darte las gracias por visitar mi portafolio. Me desarrollo actualmente como Administrador de Infraestructura en AWS y Arquitecto de Soluciones en la nube.
+Hola! Soy Juan David Ávila. Antes que nada, darte las gracias por visitar mi portafolio. Me desarrollo actualmente como Administrador en AWS y Arquitecto de Soluciones.
 
 Trabajo de manera práctica, construyendo proyectos reales que implementan servicios como EC2, S3, RDS, Lambda, API Gateway, CloudFront, Route 53 y WAF.
 Utilizo Terraform para definir infraestructura como código, desplegando arquitecturas completas que incluyen VPCs, subredes públicas y privadas, gateways, NAT Gateways, tablas de rutas, grupos de seguridad y servicios de cómputo. Puedes visitar mi canal de Youtube donde despliego infraestructura con Terraform: https://www.youtube.com/@JuanDavidAWS
