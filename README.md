@@ -18,9 +18,7 @@ Tecnologías:
 
     Linux (configuración de servidores y gestión básica de servicios)
 
-Portafolio Web:
-
-    Página web de proyectos: www.awsjuandavid.com
+Portafolio Web: www.awsjuandavid.com
 
 
 
