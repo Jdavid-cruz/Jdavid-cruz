@@ -6,7 +6,7 @@ También he participado en la creación de imágenes y la contenerización de ap
 
 Mi interés por la ciberseguridad ha tomado protagonismo en mi desarrollo profesional, llevándome a formarme activamente en herramientas SIEM como Wazuh, y en prácticas de análisis de logs, detección de alertas y reconocimiento de patrones de comportamiento sospechoso. Este enfoque me permite consolidar un perfil técnico orientado a SOC L1, con un compromiso claro hacia la identificación de vulnerabilidades, la respuesta a incidentes y la mejora de la postura de seguridad en entornos cloud.
 
-
+A través de este enlace puedes ver como declaro IaaC usando Terraform: https://www.youtube.com/@JuanDavidAWS
 ---
 
 Tecnologías:
