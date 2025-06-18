@@ -1,26 +1,35 @@
-Me desarrollo actualmente como Administrador de Sistemas sobre la nube de AWS y Analista SOC L1, con un enfoque sólido hacia la ciberseguridad.
+Estimado equipo,
 
-He trabajado de forma práctica en proyectos reales que implementan servicios como EC2, S3, RDS, Lambda, API Gateway, CloudFront, Route 53 y WAF. Utilizo Terraform para definir infraestructura como código, desplegando arquitecturas completas con VPCs, subredes públicas y privadas, Internet Gateways, NAT Gateways, tablas de rutas, grupos de seguridad e instancias EC2.
+Mi nombre es David Ávila y me encuentro en búsqueda activa de una oportunidad para incorporarme al sector IT como administrador Linux o perfil DevOps junior. Me he formado de manera práctica y autodidacta en entornos Cloud, participando en proyectos donde he implementado arquitecturas completas utilizando tecnologías clave como:
 
-También he participado en la creación de imágenes y la contenerización de aplicaciones mediante Docker, para su despliegue en entornos cloud. Poseo experiencia en la configuración de servidores Linux, scripting con Python, y he trabajado con AWS CodePipeline para automatizar procesos CI/CD. Actualmente, me encuentro en formación con GitHub Actions y OpenShift.
+    AWS: EC2, S3, RDS, Lambda, API Gateway, CloudFront, Route 53, WAF
 
-Mi interés por la ciberseguridad ha tomado protagonismo en mi desarrollo profesional, llevándome a formarme activamente en herramientas SIEM como Wazuh, y en prácticas de análisis de logs, detección de alertas y reconocimiento de patrones de comportamiento sospechoso. Este enfoque me permite consolidar un perfil técnico orientado a SOC L1, con un compromiso claro hacia la identificación de vulnerabilidades, la respuesta a incidentes y la mejora de la postura de seguridad en entornos cloud.
+    Terraform: Infraestructura como código para VPCs, subredes, tablas de rutas, gateways, grupos de seguridad e instancias EC2
+
+    Docker: Contenerización y despliegue de aplicaciones
+
+    Linux: Administración de servidores, servicios y scripting con Bash/Python
+
+    SQL: Manejo de bases de datos relacionales como PostgreSQL en RDS
+
+    CI/CD: Automatización con AWS CodePipeline y Jenkins
+
+Soy una persona proactiva, con muchas ganas de aprender y de aportar desde el primer día. Me motiva crecer dentro de un equipo colaborativo y seguir especializándome en tecnologías Cloud. Actualmente me estoy formando en Kubernetes y OpenShift para seguir ampliando mis competencias en el ecosistema DevOps.
+
+Estaría encantado de tener la oportunidad de conversar con ustedes y mostrar cómo puedo contribuir en sus proyectos.
+
+Les dejo mis datos de contacto y enlaces relevantes:
+
+> awsjuandavid1@gmail.com
+> GitHub: https://github.com/Jdavid-cruz
+>LinkedIn: https://www.linkedin.com/in/juan-david-ávila-61943a176/
+
+Muchas gracias por su atención y quedo atento a cualquier oportunidad de colaboración.
+
+Un cordial saludo,
+David Ávila
+
 
 A través de este enlace puedes ver como declaro IaaC usando Terraform: https://www.youtube.com/@JuanDavidAWS
----
 
-Tecnologías:
 
-AWS: EC2, S3, RDS, Lambda, API Gateway, CloudFront, Route 53, WAF, CodePipeline
-
-Terraform: VPCs, subredes, rutas, gateways, SGs, instancias
-
-Docker: Contenerización y despliegue de aplicaciones
-
-Linux: Administración de servidores y servicios
-
-Python: Automatización y scripting
-
-SIEM: Wazuh
-
-En formación: GitHub Actions, OpenShift
