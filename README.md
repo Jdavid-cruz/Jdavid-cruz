@@ -21,8 +21,7 @@ Estaría encantado de tener la oportunidad de conversar con ustedes y mostrar c�
 Les dejo mis datos de contacto y enlaces relevantes:
 
 > awsjuandavid1@gmail.com
-> GitHub: https://github.com/Jdavid-cruz
->LinkedIn: https://www.linkedin.com/in/juan-david-ávila-61943a176/
+> LinkedIn: https://www.linkedin.com/in/juan-david-ávila-61943a176/
 
 Muchas gracias por su atención y quedo atento a cualquier oportunidad de colaboración.
 
