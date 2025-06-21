@@ -19,7 +19,9 @@ CI/CD: Implementación de pipelines automatizados con AWS CodePipeline y Jenkins
 Soy una persona proactiva, orientada a resultados y con gran motivación por seguir aprendiendo y aportando desde el primer día. Me apasiona trabajar en equipos colaborativos y continuar especializándome en tecnologías Cloud y DevOps. Actualmente, me estoy formando en Kubernetes y OpenShift para ampliar mis competencias y aportar más valor.
 
 -> Contacto: awsjuandavid1@gmail.com
+
 -> LinkedIn: https://www.linkedin.com/in/juan-david-ávila-61943a176/
+
 -> Breve demostración de IaaC con Terraform: https://www.youtube.com/@JuanDavidAWS
 
 Un cordial saludo,
