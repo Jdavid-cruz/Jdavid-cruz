@@ -15,10 +15,6 @@ Mi nombre es David Ávila, administrador AWS con perfil DevOps. Me he formado de
 
 Soy una persona proactiva, con muchas ganas de aprender y de aportar desde el primer día. Me motiva crecer dentro de un equipo colaborativo y seguir especializándome en tecnologías Cloud. Actualmente me estoy formando en Kubernetes y OpenShift para seguir ampliando mis competencias en el ecosistema DevOps.
 
-Estaría encantado de tener la oportunidad de conversar con ustedes y mostrar cómo puedo contribuir en sus proyectos.
-
-Les dejo mis datos de contacto y enlaces relevantes:
-
 > awsjuandavid1@gmail.com
 > LinkedIn: https://www.linkedin.com/in/juan-david-ávila-61943a176/
 > A través de este enlace puedes ver como declaro IaaC usando Terraform: https://www.youtube.com/@JuanDavidAWS
